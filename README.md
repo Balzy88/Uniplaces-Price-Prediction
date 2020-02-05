@@ -1,3 +1,3 @@
 # Uniplaces-Price-Prediction
 This is one of my master's degree projects that uses machine learning algorithms to predict the prices of apartments based on variable inputs.
-A seperate file webscrapes the uniplaces website and exports the data to a csv which then this file consumes.
+The web scraper file scrapes the uniplaces website for apartment data and then the complete code file consumes the data.
